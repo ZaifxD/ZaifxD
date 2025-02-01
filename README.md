@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm amakecinsos</h1>
 <h3 align="center">A passionate developer and a programmer.</h3>
 
-- 🔭 I’m currently working on **Megahive Mc**
-
-- 🌱 I’m currently learning **Java**
+- 🌱 Currently learning **Java**
 
 - 📫 How to reach me **amake.cinsos69@gmail.com**
 
