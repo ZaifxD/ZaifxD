@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm amakecinsos</h1>
+<h1 align="center">Hi, I'm amakecinsos</h1>
 <h3 align="center">A passionate developer and a programmer.</h3>
 
 - 🌱 Currently learning **Java**
 
-- 📫 How to reach me **amake.cinsos69@gmail.com**
+- 📫 How to reach me **support@amakecinsos.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
